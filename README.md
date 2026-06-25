@@ -1,5 +1,7 @@
 下载 Shadowrocket 订阅二维码
 
+https://raw.githubusercontent.com/a86404/shado/main/Shadowrocket.conf
+
 小火箭里可以这样用：
 
 打开 Shadowrocket → 右上角 + → 类型选 Subscribe → 粘贴这个 URL
