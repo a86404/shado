@@ -1,0 +1,13 @@
+# NAME: OKX
+# AUTHOR: a86404 / converted for Shadowrocket
+# TYPE: Shadowrocket RULE-SET
+# NOTE: OKX / OKX Web3 / OKLink
+
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,oklink.com
+
+# OKX app / api / web3 fallback
+DOMAIN-KEYWORD,okx
+DOMAIN-KEYWORD,okex
+DOMAIN-KEYWORD,oklink
