@@ -1,0 +1,38 @@
+# NAME: Binance
+# AUTHOR: a86404 / converted for Shadowrocket
+# TYPE: Shadowrocket RULE-SET
+# NOTE: Binance / Binance App / Binance API / Binance Web3
+
+# Binance main domains
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,binancefuture.com
+DOMAIN-SUFFIX,binance.us
+DOMAIN-SUFFIX,binance.info
+DOMAIN-SUFFIX,binance.org
+DOMAIN-SUFFIX,binance.net
+DOMAIN-SUFFIX,binance.vision
+
+# Binance app / static / tracing / CDN
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,bnappzh.co
+DOMAIN-SUFFIX,bnbzh.ac
+DOMAIN-SUFFIX,saasexch.cc
+DOMAIN-SUFFIX,saasexch.com
+DOMAIN-SUFFIX,saasexch.co
+DOMAIN-SUFFIX,saasexch.io
+
+# Binance Chain / BNB ecosystem
+DOMAIN-SUFFIX,bnbchain.org
+DOMAIN-SUFFIX,nftstatic.com
+
+# Tracking / attribution used by app
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,appsflayer.com
+
+# API / WebSocket fallback
+DOMAIN-KEYWORD,binance
+DOMAIN-KEYWORD,bnb
