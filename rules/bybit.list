@@ -1,27 +1,38 @@
 # NAME: Bybit
-# AUTHOR: MetaCubeX converted for Shadowrocket
+# AUTHOR: a86404 / converted from MetaCubeX for Shadowrocket
 # TYPE: Shadowrocket RULE-SET
+# NOTE: Bybit / Bybit App / API / WebSocket / Regional
 
-DOMAIN-SUFFIX,bybit-exchange.github.io
-DOMAIN-SUFFIX,bybit.ada.support
+# Main / official
 DOMAIN-SUFFIX,bybit.com
-DOMAIN-SUFFIX,bycsi.com
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,bybit-global.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybit.cloud
+
+# App / API / WebSocket / CDN
 DOMAIN-SUFFIX,bytick.com
 DOMAIN-SUFFIX,byapis.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,bycsi.com
 DOMAIN-SUFFIX,bycbe.com
 DOMAIN-SUFFIX,bymj.io
 DOMAIN-SUFFIX,byabcde.com
-DOMAIN-SUFFIX,byapps.net
 DOMAIN-SUFFIX,byd3c3.com
-DOMAIN-SUFFIX,bybit.biz
 DOMAIN-SUFFIX,bybdc6.com
-DOMAIN-SUFFIX,bybit-global.com
-DOMAIN-SUFFIX,bybit.cloud
-DOMAIN-SUFFIX,bybitglobal.com
+
+# Support / docs
+DOMAIN-SUFFIX,bybit-exchange.github.io
+DOMAIN-SUFFIX,bybit.ada.support
 
 # Regional / extra
-
 DOMAIN-SUFFIX,bybit.tr
 DOMAIN-SUFFIX,bybit.kz
 DOMAIN-SUFFIX,bybitgeorgia.ge
+
+# Keyword fallback for iOS App
 DOMAIN-KEYWORD,bybit
+DOMAIN-KEYWORD,bytick
+DOMAIN-KEYWORD,byapis
+DOMAIN-KEYWORD,byapps
+DOMAIN-KEYWORD,bycsi
