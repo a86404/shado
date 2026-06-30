@@ -14,19 +14,20 @@ DOMAIN-SUFFIX,bgapi.io
 DOMAIN-SUFFIX,bitget-pro.com
 DOMAIN-SUFFIX,bitgetcdn.com
 DOMAIN-SUFFIX,bitgetglobal.com
+DOMAIN-SUFFIX,bitget.biz
 
-# >>> Crypto Data & Socket Fallback (交易所常用底层推送)
+# >>> Crypto Data & Socket Fallback
 DOMAIN-SUFFIX,bgws.io
 DOMAIN-SUFFIX,bitgetapi.net
 
 # >>> Keyword Fallback
 DOMAIN-KEYWORD,bitget
 
-# >>> iOS App User-Agent (小火箭特有规则：匹配 App 的请求头)
+# >>> iOS App User-Agent
 USER-AGENT,Bitget*
 USER-AGENT,bitget*
 
-# >>> Mandatory Captcha & Security Verification
+# >>> Captcha & Security Verification
 DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,geetest.com
