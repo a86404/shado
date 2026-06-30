@@ -1,9 +1,7 @@
 # NAME: OpenAI
-
 # AUTHOR: a86404 / converted from MetaCubeX for Shadowrocket
-
+# UPDATED: 2026-06-29
 # TYPE: Shadowrocket RULE-SET
-
 # NOTE: ChatGPT / OpenAI / Sora / LiveKit / CDN
 
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
