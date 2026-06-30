@@ -1,4 +1,4 @@
-# NAME: Bitget
+# >>> Bitget 官方域名 & API
 # AUTHOR: a86404 / converted for Shadowrocket
 # TYPE: Shadowrocket RULE-SET
 
@@ -7,6 +7,17 @@ DOMAIN-SUFFIX,bitgetimg.com
 DOMAIN-SUFFIX,bitgetapp.com
 DOMAIN-SUFFIX,bitgetapi.com
 DOMAIN-SUFFIX,bitgetlimited.github.io
+DOMAIN-SUFFIX,bgapi.io
+DOMAIN-SUFFIX,bitget-pro.com
+DOMAIN-SUFFIX,bitget.biz
 
-# App / API / CDN fallback
+# >>> Bitget 全球加速 & CDN 备用
+DOMAIN-SUFFIX,bitgetcdn.com
+DOMAIN-SUFFIX,bitgetglobal.com
+
+# >>> 关键字兜底
 DOMAIN-KEYWORD,bitget
+
+# >>> 核心第三方组件（App 登录/提币人机验证必需）
+DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-SUFFIX,hcaptcha.com
