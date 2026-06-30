@@ -1,5 +1,6 @@
 # NAME: Gate.io
 # AUTHOR: a86404 / converted for Shadowrocket
+# UPDATED: 2026-06-29
 # TYPE: Shadowrocket RULE-SET
 
 DOMAIN-SUFFIX,gate.io
