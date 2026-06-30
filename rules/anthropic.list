@@ -1,13 +1,10 @@
 # NAME: Claude
-
+# UPDATED: 2026-06-29
 # AUTHOR: a86404 / converted from MetaCubeX for Shadowrocket
-
 # TYPE: Shadowrocket RULE-SET
-
 # NOTE: Claude / Anthropic / Claude MCP
 
 DOMAIN-SUFFIX,servd-anthropic-website.b-cdn.net
-
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claude.ai
