@@ -1,9 +1,7 @@
 # NAME: Gemini
-
 # AUTHOR: a86404 / converted from MetaCubeX for Shadowrocket
-
+# UPDATED: 2026-06-29
 # TYPE: Shadowrocket RULE-SET
-
 # NOTE: Gemini / Google AI Studio / NotebookLM / DeepMind / Jules / Antigravity
 
 DOMAIN-SUFFIX,ai.google.dev
