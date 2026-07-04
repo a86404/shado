@@ -1,0 +1,11 @@
+# NAME: Grok
+# AUTHOR: a86404 / converted from MetaCubeX for Shadowrocket
+# UPDATED: 2026-07-05
+# TYPE: Shadowrocket RULE-SET
+# NOTE: Grok / xAI / X Grok
+
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.x.com
+
+DOMAIN-KEYWORD,grok
