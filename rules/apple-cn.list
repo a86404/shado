@@ -4,6 +4,18 @@
 # TYPE: Shadowrocket RULE-SET
 # SOURCE: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/apple-cn.list
 
+# Apple core suffix - important for App Store login / purchase / download
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,apple-mapkit.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,ls.apple.com
+
 DOMAIN,a1.mzstatic.com
 DOMAIN,a2.mzstatic.com
 DOMAIN,a3.mzstatic.com
